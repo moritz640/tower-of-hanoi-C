@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main(int argc, char *argv[])
+int main(int argc, char *argv[]) //In the next version I will use separate functions to make more manageable the Main function.
 {
   while(1)
   {
